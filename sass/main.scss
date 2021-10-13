@@ -1,0 +1,17 @@
+//here is where you should import your sass modules
+
+@import "modules/_exampleFile";
+
+// this is a quick reset for your page
+
+* {
+    border: none;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+
+//in order for your modules to be updated and watched constantly you need to type in this in the terminal window
+//sass --watch sass:css --style compressed
