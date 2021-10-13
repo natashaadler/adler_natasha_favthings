@@ -1,0 +1,24 @@
+{
+
+    "Art": {
+        "name":"Art Pieces",
+        "heading":"Painting & Design",
+        "description":"Put text here",
+        "biopic":"art.jpg"
+    },
+
+    "Sports": {
+        "name":"Sports Through the Ages",
+        "heading":"Dance, Soccer and More",
+        "description":"Put Text Here",
+        "biopic":"sports.jpg"
+    },
+
+    "Organization": {
+        "name":"Organization",
+        "heading":"How I Organize",
+        "description":"Put Text Here",
+        "biopic":"organize.jpg"
+    }
+    
+  }
