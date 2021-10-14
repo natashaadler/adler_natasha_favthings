@@ -1,24 +1,24 @@
 {
 
     "Art": {
-        "name":"Art Pieces",
-        "heading":"Painting & Design",
-        "description":"Put text here",
-        "biopic":"art.jpg"
+        "name":"Art of the Ages",
+        "heading":"Artists are just children who refuse to put down their crayons.",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas odio quam, sagittis quis velit a, mollis congue neque. Sed sollicitudin quam malesuada condimentum auctor. Integer sit amet lacus mattis, rutrum tortor id, ornare mauris. Sed faucibus ante id pellentesque ullamcorper. Vivamus et diam et ex ornare lobortis. Etiam ut enim nec mauris accumsan volutpat at",
+        "favpic":"art.jpg"
     },
 
-    "Sports": {
-        "name":"Sports Through the Ages",
-        "heading":"Dance, Soccer and More",
-        "description":"Put Text Here",
-        "biopic":"sports.jpg"
+    "Rex the Cat": {
+        "name":"Rex the Cat",
+        "heading":"Who needs a feather duster when you have a tail like this",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas odio quam, sagittis quis velit a, mollis congue neque. Sed sollicitudin quam malesuada condimentum auctor. Integer sit amet lacus mattis, rutrum tortor id, ornare mauris. Sed faucibus ante id pellentesque ullamcorper. Vivamus et diam et ex ornare lobortis. Etiam ut enim nec mauris accumsan volutpat at",
+        "favpic":"rex.jpg"
     },
 
     "Organization": {
-        "name":"Organization",
-        "heading":"How I Organize",
-        "description":"Put Text Here",
-        "biopic":"organize.jpg"
+        "name":"Organization Nation",
+        "heading":"Organized people are just to lazy to look for things",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas odio quam, sagittis quis velit a, mollis congue neque. Sed sollicitudin quam malesuada condimentum auctor. Integer sit amet lacus mattis, rutrum tortor id, ornare mauris. Sed faucibus ante id pellentesque ullamcorper. Vivamus et diam et ex ornare lobortis. Etiam ut enim nec mauris accumsan volutpat at",
+        "favpic":"organization.jpg"
     }
     
   }

@@ -1,0 +1,36 @@
+//this is how the file should be syntaxed - make sure the naming convention starts with an underscore (_)
+
+header {
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    justify-content: left;
+    max-width: 100px;
+}
+
+.header ul {
+    position: relative;
+    max-width: 80px;
+    display: flex;
+    justify-content: right;
+}
+
+.header ul li {
+    list-style: none;
+}
+
+.header ul li a {
+    display: inline-block;
+    color: grey;
+    font-weight: 500;
+    margin-left: 40px;
+    text-decoration: none;
+}

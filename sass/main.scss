@@ -1,17 +1,16 @@
 //here is where you should import your sass modules
 
-@import "modules/_exampleFile";
+@import "modules/_reset.scss";
+@import "modules/_var.scss";
+@import "modules/_queries.scss";
 
-// this is a quick reset for your page
-
-* {
-    border: none;
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-
-}
+@import "modules/_defaults.scss";
+@import "modules/_header.scss";
+@import "modules/_template.scss";
+@import "modules/_landing.scss";
+@import "modules/_socials.scss";
 
 
 //in order for your modules to be updated and watched constantly you need to type in this in the terminal window
 //sass --watch sass:css --style compressed
+
