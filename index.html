@@ -6,29 +6,49 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- link your css file as normal-->
     <link rel="stylesheet" href="css/main.css">
-    <title>Document</title>
+    <title>Natasha's Favorite Things!</title>
 </head>
 <body>
-    <h1>My Favorite Things!</h1>
+    <div class="siteContainer">
+        <div class="circle"></div>
 
-    <section id="teamSection"></section>
+        <h1 class="hidden">Natasha's Favorite Things!</h1>
 
-    <!--REPLACE THIS WITH FAV THING CONTENT-->
-    <template id="bio-template">
-        <section class="bio-panel"> 
-            <div class="p_avatar"> <!-- this is index 0 (the first child)-->
-                <img src="" alt="">
-            </div> 
+        <header class="header"> <!--Header Starts-->
+            <a href="#"> <img src="images/logo.png" alt="logo" class="logo"></a>
+            <ul>
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">ART</a></li>
+                <li><a href="#">CAT</a></li>
+                <li><a href="#">ORGANIZATION</a></li>
+            </ul>
+        </header><!--Header Ends-->
+
+        <section id="favThings"></section>
+
+    <!--FAV THING CONTENT-->
+        <template id="favThingsTemplate">
+            <section class="fav-panel"> 
+                    <div class="fav_avatar"> 
+                        <img class="img" src="" alt="">
+                    </div> 
+                    <h2 class="fav_name">slug</h2> 
+                    <h3 class="fav_heading">slug</h3> 
+                    <p class="fav_description"> 
+                     slug
+                    </p>
+                    <a href="#" class="button">Learn More</a>
+            </section>
+        </template>
+        <div class="socials">
+            <ul class="sci">
+                <li><a href="#"><img src="images/email.png" alt="email"></a></li>
+                <li><a href="#"><img src="images/instagram.png" alt="instagram"></a></li>
+                <li><a href="#"><img src="images/linkedin.png" alt="linkedin"></a></li>
+            </ul>
+        </div>
+    </div>
     
-            <h2 class="p_name">slug</h2> <!-- this is index 1 (the second child)-->
-            <h3 class="p_role">slug</h3> <!-- this is index 2 (the third child)-->
-            <p class="p_nicknames"> <!-- this is index 3 (the fourth child)-->
-                slug
-            </p>
-        </section>
-
-    
-    <!-- Import only main.js as normal-->
-    <script src="script/main.js" type="module" defer></script>
+    <script src="js/main.js" type="module" defer></script>
 </body>
 </html>
