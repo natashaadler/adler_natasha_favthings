@@ -10,45 +10,39 @@
 </head>
 <body>
     <div class="siteContainer">
+        
         <div class="circle"></div>
 
         <h1 class="hidden">Natasha's Favorite Things!</h1>
 
         <header class="header"> <!--Header Starts-->
             <a href="#"> <img src="images/logo.png" alt="logo" class="logo"></a>
-            <ul>
-                <li><a href="#">HOME</a></li>
-                <li><a href="#">ART</a></li>
-                <li><a href="#">CAT</a></li>
-                <li><a href="#">ORGANIZATION</a></li>
-            </ul>
         </header><!--Header Ends-->
 
-        <section id="favThings"></section>
+        <section id="favThings"> <!-- Fav Thing info starts-->
+            <div id="favThingsText"> <!-- Fav Thing text starts-->
+                <h2 class="fav_name">slug</h2>
+                <h3 class="fav_heading">slug</h3>
+                <p class="fav_description">
+                    slug
+                </p>
+                <a href="#" class="button">Learn More</a>
+            </div><!-- Fav Thing text ends-->
+            <div class="favThingsImg"><!-- Fav Thing img starts-->
+                <img class="fav_img" src="" alt="">
+            </div><!-- Fav Thing img ends-->
+        </section> <!-- Fav Thing info starts-->
 
-    <!--FAV THING CONTENT-->
-        <template id="favThingsTemplate">
-            <section class="fav-panel"> 
-                    <div class="fav_avatar"> 
-                        <img class="img" src="" alt="">
-                    </div> 
-                    <h2 class="fav_name">slug</h2> 
-                    <h3 class="fav_heading">slug</h3> 
-                    <p class="fav_description"> 
-                     slug
-                    </p>
-                    <a href="#" class="button">Learn More</a>
-            </section>
-        </template>
-        <div class="socials">
-            <ul class="sci">
-                <li><a href="#"><img src="images/email.png" alt="email"></a></li>
-                <li><a href="#"><img src="images/instagram.png" alt="instagram"></a></li>
-                <li><a href="#"><img src="images/linkedin.png" alt="linkedin"></a></li>
-            </ul>
-        </div>
-    </div>
-    
+        <section id="favThingsButtons"></section>
+
+   
+        <template id="favThingsButtonTemplate">   <!--Fav thing buttons start-->
+            <div class="favourite_button" data-name="">
+                <img class="fav_img" src="" alt="">
+            </div>
+        </template>   <!--Fav thing buttons end-->
+    </div>  <!--site container ends-->
+
     <script src="js/main.js" type="module" defer></script>
 </body>
 </html>
