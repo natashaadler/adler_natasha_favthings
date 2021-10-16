@@ -1,14 +1,12 @@
 //this is how the file should be syntaxed - make sure the naming convention starts with an underscore (_)
 
 header {
-    position:absolute;
-    top: 0;
-    left: 0;
     width: 100%;
-    padding: 20px 100px;
+    padding: 80px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    box-sizing: border-box;
 }
 
 .logo {
@@ -16,21 +14,14 @@ header {
     max-width: 100px;
 }
 
-.header ul {
-    position: relative;
-    max-width: 80px;
-    display: flex;
-    justify-content: right;
-}
+// desktop
+@media (max-width: 800px) {
 
-.header ul li {
-    list-style: none;
-}
+    header {
+        padding: 30px;
+        margin: auto;
+        justify-content: center;
+ 
+    }
 
-.header ul li a {
-    display: inline-block;
-    color: grey;
-    font-weight: 500;
-    margin-left: 40px;
-    text-decoration: none;
 }
