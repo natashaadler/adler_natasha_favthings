@@ -4,21 +4,21 @@
         "name":"Art of the Ages",
         "heading":"Artists are just children who refuse to put down their crayons.",
         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas odio quam, sagittis quis velit a, mollis congue neque. Sed sollicitudin quam malesuada condimentum auctor. Integer sit amet lacus mattis, rutrum tortor id, ornare mauris. Sed faucibus ante id pellentesque ullamcorper. Vivamus et diam et ex ornare lobortis. Etiam ut enim nec mauris accumsan volutpat at",
-        "favpic":"art.jpg"
+        "favpic":"art.png"
     },
 
     "Rex the Cat": {
         "name":"Rex the Cat",
-        "heading":"Who needs a feather duster when you have a tail like this",
+        "heading":"Who needs a feather duster when you have a tail like this.",
         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas odio quam, sagittis quis velit a, mollis congue neque. Sed sollicitudin quam malesuada condimentum auctor. Integer sit amet lacus mattis, rutrum tortor id, ornare mauris. Sed faucibus ante id pellentesque ullamcorper. Vivamus et diam et ex ornare lobortis. Etiam ut enim nec mauris accumsan volutpat at",
-        "favpic":"rex.jpg"
+        "favpic":"rex.png"
     },
 
-    "Organization": {
-        "name":"Organization Nation",
-        "heading":"Organized people are just to lazy to look for things",
+    "Music": {
+        "name":"Music Madness",
+        "heading":"Music is life, thats why our hearts have beats.",
         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas odio quam, sagittis quis velit a, mollis congue neque. Sed sollicitudin quam malesuada condimentum auctor. Integer sit amet lacus mattis, rutrum tortor id, ornare mauris. Sed faucibus ante id pellentesque ullamcorper. Vivamus et diam et ex ornare lobortis. Etiam ut enim nec mauris accumsan volutpat at",
-        "favpic":"organization.jpg"
+        "favpic":"music.png"
     }
     
   }

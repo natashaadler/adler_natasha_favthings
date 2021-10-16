@@ -15,13 +15,20 @@ header {
 }
 
 // desktop
-@media (max-width: 800px) {
+@media (max-width: 1300px) {
 
     header {
-        padding: 30px;
-        margin: auto;
-        justify-content: center;
+        padding: 40px;
+        justify-content: left;
  
     }
 
+}
+@media (max-width: 500px){
+
+    header {
+        padding: 30px;
+        justify-content: center;
+ 
+    }
 }
