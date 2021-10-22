@@ -3,21 +3,21 @@
     "Art": {
         "name":"Art of the Ages",
         "heading":"Artists are just children who refuse to put down their crayons.",
-        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas odio quam, sagittis quis velit a, mollis congue neque. Sed sollicitudin quam malesuada condimentum auctor. Integer sit amet lacus mattis, rutrum tortor id, ornare mauris. Sed faucibus ante id pellentesque ullamcorper. Vivamus et diam et ex ornare lobortis. Etiam ut enim nec mauris accumsan volutpat at",
+        "description":"My whole life I’ve always been very creative. In the 3rd grade we had a recycle art contest and I used a juice bottle, some newspaper and a straw to create a peeing cat. In grade 7 we had to create a cereal box branded and all, I created a mango crunch cereal and won the first-place prize. In grade 10 I even received the art award and had my art featured at the London Art Museum. Fast Forward to today and I’m in a Digital Art program. ",
         "favpic":"art.png"
     },
 
     "Rex the Cat": {
         "name":"Rex the Cat",
         "heading":"Who needs a feather duster when you have a tail like this.",
-        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas odio quam, sagittis quis velit a, mollis congue neque. Sed sollicitudin quam malesuada condimentum auctor. Integer sit amet lacus mattis, rutrum tortor id, ornare mauris. Sed faucibus ante id pellentesque ullamcorper. Vivamus et diam et ex ornare lobortis. Etiam ut enim nec mauris accumsan volutpat at",
+        "description":"This cutie has been in my life for over a decade. This opinionated, long-haired, orange tabby is my family pet Rex, which we found out later means King in German, which is most suiting for him. He has a cat tree in the kitchen where he rules the house from and demands treats every hour. He has been through it all with us. He even lets me serenade him with songs.",
         "favpic":"rex.png"
     },
 
     "Music": {
         "name":"Music Madness",
         "heading":"Music is life, thats why our hearts have beats.",
-        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas odio quam, sagittis quis velit a, mollis congue neque. Sed sollicitudin quam malesuada condimentum auctor. Integer sit amet lacus mattis, rutrum tortor id, ornare mauris. Sed faucibus ante id pellentesque ullamcorper. Vivamus et diam et ex ornare lobortis. Etiam ut enim nec mauris accumsan volutpat at",
+        "description":"Music has been a core component of my life. From classical training since I was six, to putting on musicals at home for my parents, to now creating my third album, it has been my saving grace. I believe music has a big impact on our world and can evoke feelings, unattainable without it. I’m grateful to share my voice to hopefully help others. I hope you like my unreleased video below. ",
         "favpic":"music.png"
     }
     
